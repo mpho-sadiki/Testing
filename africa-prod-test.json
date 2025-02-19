@@ -205,42 +205,38 @@
                 }
               ]
             },
-            "sortMembersBy": "name",
-            "mergeGroupsByName": true,
-            "members": [
-              {
-                "type": "group",
-                "name": "Land cover",
-                "id": "Land-cover",
-                "mergeGroupsByName": true,
-                "excludeMembers": [
-                  "DE Africa Continental Services",
-                  "External Datasets"
-                ],
-                "sortMembersBy": "name",
-                "members": [
-                  {
-                    "type": "group",
-                    "name": "Africapolis green spaces",
-                    "members": [
-                      {
-                        "type": "wms",
-                        "name": "Africapolis 2015 with urban green space indicators.",
-                        "id": "africapolis_2015",
-                        "url": "https://geoserver.digitalearth.africa/geoserver/wms",
-                        "layers": "africapolis:Africapolis_2015"
-                      },
-                      {
-                        "type": "wms",
-                        "name": "Africapolis 2020 with urban green space indicators.",
-                        "id": "africapolis_2020",
-                        "url": "https://geoserver.digitalearth.africa/geoserver/wms",
-                        "layers": "africapolis:Africapolis_2020"
-                      }
-                    ]
-                  }
-                ]
-              }
+            {
+              "type": "group",
+              "name": "Land cover",
+              "id": "Land-cover",
+              "mergeGroupsByName": true,
+              "excludeMembers": [
+                "DE Africa Continental Services",
+                "External Datasets"
+              ],
+              "sortMembersBy": "name",
+              "members": [
+                {
+                  "type": "group",
+                  "name": "Africapolis green spaces",
+                  "members": [
+                    {
+                      "type": "wms",
+                      "name": "Africapolis 2015 with urban green space indicators.",
+                      "id": "africapolis_2015",
+                      "url": "https://geoserver.digitalearth.africa/geoserver/wms",
+                      "layers": "africapolis:Africapolis_2015"
+                    },
+                    {
+                      "type": "wms",
+                      "name": "Africapolis 2020 with urban green space indicators.",
+                      "id": "africapolis_2020",
+                      "url": "https://geoserver.digitalearth.africa/geoserver/wms",
+                      "layers": "africapolis:Africapolis_2020"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
