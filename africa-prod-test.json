@@ -207,7 +207,7 @@
             },
             {
               "type": "wms-group",
-              "name": "External Datasets/Land cover",
+              "name": "Land cover",
               "id": "Land-cover",
               "url": "https://ows.digitalearth.africa/",
               "excludeMembers": [
