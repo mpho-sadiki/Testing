@@ -208,6 +208,7 @@
             {
               "type": "wms-group",
               "name": "Land cover",
+              "url": "https://ows.digitalearth.africa/",
               "sortMembersBy": "name",
               "members": [
                 {
