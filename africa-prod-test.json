@@ -221,6 +221,7 @@
               "type": "wms-group",
               "name": "Land cover",
               "id": "3",
+              "url": "https://ows.digitalearth.africa/",
               "excludeMembers": [
                 "DE Africa Continental Services",
               ],
