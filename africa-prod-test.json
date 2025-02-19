@@ -215,6 +215,7 @@
                 "DE Africa Continental Services",
                 "External Datasets"
               ],
+              "mergeGroupsByName": true,
               "sortMembersBy": "name",
               "members": [
                 {
