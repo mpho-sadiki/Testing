@@ -211,13 +211,8 @@
               "id": "Land-cover",
               "url": "https://ows.digitalearth.africa/",
               "excludeMembers": [
-                "Satellite images - Planet NICFI",
-                "Elevation and topography",
-                "Meteorology",
-                "Radar backscatter",
-                "Satellite images",
-                "Urban",
-                "Vegetation"
+                "DE Africa Continental Services",
+                "External Datasets"
               ],
               "sortMembersBy": "name",
               "members": [
