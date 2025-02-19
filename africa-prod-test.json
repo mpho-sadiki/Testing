@@ -27,7 +27,7 @@
         {
           "type": "wms-group",
           "name": "DE Africa Continental Services",
-          "id": "DE Africa Continental Services",
+          "id": "1",
           "url": "https://ows.digitalearth.africa/",
           "excludeMembers": [
             "External Datasets",
@@ -91,7 +91,7 @@
         {
           "type": "wms-group",
           "name": "External Datasets",
-          "id": "External Datasets",
+          "id": "2",
           "url": "https://ows.digitalearth.africa/",
           "excludeMembers": [
             "DE Africa Continental Services",
