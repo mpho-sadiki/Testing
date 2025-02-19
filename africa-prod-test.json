@@ -96,6 +96,7 @@
           "excludeMembers": [
             "DE Africa Continental Services"
           ],
+          "mergeGroupsByName": true,
           "sortMembersBy": "name",
           "members": [
             {
