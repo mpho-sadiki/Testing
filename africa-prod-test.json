@@ -28,7 +28,6 @@
           "type": "wms-group",
           "name": "DE Africa Continental Services",
           "url": "https://ows.digitalearth.africa/",
-          "mergeGroupsByName": true,
           "members": [
             {
               "type": "group",
