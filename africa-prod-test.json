@@ -222,7 +222,6 @@
               "name": "Land cover",
               "excludeMembers": [
                 "DE Africa Continental Services",
-                "External Datasets"
               ],
               "mergeGroupsByName": true,
               "members": [
