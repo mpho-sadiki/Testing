@@ -97,6 +97,7 @@
             "DE Africa Continental Services"
           ],
           "sortMembersBy": "name",
+          "mergeGroupsByName": true,
           "members": [
             {
               "type": "group",
