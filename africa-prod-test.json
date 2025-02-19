@@ -32,6 +32,7 @@
           "excludeMembers": [
             "External Datasets",
           ],
+          "sortMembersBy":"name",
           "members": [
             {
               "type": "group",
