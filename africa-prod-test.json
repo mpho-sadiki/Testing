@@ -184,7 +184,7 @@
         },
         {
           "type": "wms-group",
-          "name": "Satellite images",
+          "name": "DE Africa Continental Services",
           "id": "some-id",
           "url": "https://ows.digitalearth.africa/",
           "excludeMembers": [
@@ -194,7 +194,7 @@
           "members": [  
             {
               "type": "group",
-              "name": "Urban",
+              "name": "Africapolis green space",
               "members": [
                 {
                   "type": "wms",
