@@ -219,8 +219,8 @@
               ]
             },
             {
-              "type": "wms-group",
-              "name": "Land cover",
+              "type": "group",
+              "name": "Meteorology",
               "id": "2.2",
               "excludeMembers": [
                 "DE Africa Continental Services",
