@@ -71,9 +71,6 @@
               "name": "Surface water",
               "id": "some-id",
               "url": "https://ows.digitalearth.africa/",
-              "excludeMembers": [
-                "External Datasets",
-              ],
               "members": [
                 {
                   "type": "group",
