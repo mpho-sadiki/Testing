@@ -29,9 +29,6 @@
           "name": "DE Africa Continental Services",
           "id": "some-id",
           "url": "https://ows.digitalearth.africa/",
-          "excludeMembers": [
-            "External Datasets",
-          ],
           "members": [
             {
               "type": "group",
