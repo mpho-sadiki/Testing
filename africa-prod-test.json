@@ -220,7 +220,7 @@
             {
               "type": "wms-group",
               "name": "Land cover",
-              "id": "2",
+              "id": "3",
               "excludeMembers": [
                 "DE Africa Continental Services",
               ],
