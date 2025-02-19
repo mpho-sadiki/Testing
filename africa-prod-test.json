@@ -207,10 +207,9 @@
               ]
             },
             {
-              "type": "group",
+              "type": "wms-group",
               "name": "Land cover",
               "id": "Land-cover",
-              "mergeGroupsByName": true,
               "excludeMembers": [
                 "DE Africa Continental Services",
                 "External Datasets"
