@@ -207,7 +207,7 @@
               ]
             },
             {
-              "type": "group",
+              "type": "wms-group",
               "name": "Land cover",
               "id": "Land-cover",
               "url": "https://ows.digitalearth.africa/",
@@ -215,7 +215,6 @@
                 "DE Africa Continental Services",
                 "External Datasets"
               ],
-              "mergeGroupsByName": true,
               "sortMembersBy": "name",
               "members": [
                 {
