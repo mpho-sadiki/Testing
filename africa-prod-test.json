@@ -27,7 +27,7 @@
         {
           "type": "wms-group",
           "name": "DE Africa Continental Services",
-          "id": "1",
+          "id": "DE Africa Continental Services",
           "url": "https://ows.digitalearth.africa/",
           "excludeMembers": [
             "External Datasets",
@@ -91,7 +91,7 @@
         {
           "type": "wms-group",
           "name": "External Datasets",
-          "id": "2",
+          "id": "External Datasets",
           "url": "https://ows.digitalearth.africa/",
           "excludeMembers": [
             "DE Africa Continental Services",
@@ -101,7 +101,7 @@
             {
               "type": "wms-group",
               "name": "Satellite images",
-              "id": "3",
+              "id": "Satellite images",
               "url": "https://ows.digitalearth.africa/",
               "excludeMembers": [
                 "DE Africa Continental Services",
@@ -220,7 +220,7 @@
             {
               "type": "wms-group",
               "name": "Land cover",
-              "id": "4",
+              "id": "Land cover",
               "excludeMembers": [
                 "DE Africa Continental Services",
                 "External Datasets"
