@@ -27,7 +27,7 @@
         {
           "type": "wms-group",
           "name": "DE Africa Continental Services",
-          "id": "some-id",
+          "id": "1",
           "url": "https://ows.digitalearth.africa/",
           "excludeMembers": [
             "External Datasets",
@@ -101,6 +101,7 @@
             {
               "type": "wms-group",
               "name": "Satellite images",
+              "id": "2.1",
               "url": "https://ows.digitalearth.africa/",
               "sortMembersBy": "name",
               "members": [
@@ -217,6 +218,7 @@
               "type": "wms-group",
               "name": "Land cover",
               "url": "https://ows.digitalearth.africa/",
+              "id": "2.2",
               "sortMembersBy": "name",
               "members": [
                 {
