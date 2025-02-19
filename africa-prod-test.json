@@ -212,6 +212,7 @@
               "id": "2.2",
               "url": "https://ows.digitalearth.africa/",
               "excludeMembers": [
+                "DE Africa Continental Services",
                 "External Datasets"
               ],
               "sortMembersBy": "name",
