@@ -184,12 +184,9 @@
         },
         {
           "type": "wms-group",
-          "name": "DE Africa Continental Services",
+          "name": "External Datasets",
           "id": "some-id",
           "url": "https://ows.digitalearth.africa/",
-          "excludeMembers": [
-              
-          ],
           "mergeGroupsByName": true,
           "members": [  
             {
