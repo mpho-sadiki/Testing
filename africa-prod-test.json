@@ -212,8 +212,7 @@
               "id": "Land-cover",
               "url": "https://ows.digitalearth.africa/",
               "excludeMembers": [
-                "DE Africa Continental Services",
-                "External Datasets"
+                "DE Africa Continental Services"
               ],
               "sortMembersBy": "name",
               "members": [
