@@ -207,7 +207,7 @@
             },
             {
               "type": "group",
-              "name": "Africapolis green spaces -test",
+              "name": "Africapolis green spaces",
               "members": [
                 {
                   "type": "wms",
