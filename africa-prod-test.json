@@ -206,7 +206,7 @@
               ]
             },
             {
-              type": "group",
+              "type": "group",
               "name": "Urban",
               "members": [
                 {
