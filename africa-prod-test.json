@@ -208,6 +208,7 @@
             {
               "type": "wms-group",
               "name": "Urban",
+              "sortMembersBy": "name",
               "members": [
                 {
                   "type": "group",
