@@ -205,15 +205,15 @@
                 }
               ]
             },
+            "sortMembersBy": "name",
+            "mergeGroupsByName": true,
             {
               "type": "wms-group",
               "name": "Urban",
-              "sortMembersBy": "name",
-              "mergeGroupsByName": true,
               "members": [
                 {
                   "type": "group",
-                  "name": "Africapolis green spaces - test",
+                  "name": "Africapolis green spaces - testing",
                   "members": [
                     {
                       "type": "wms",
