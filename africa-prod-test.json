@@ -210,7 +210,7 @@
               "name": "Urban",
               "members": [
                 {
-                  "type": "wms-subgroup",
+                  "type": "wms-group",
                   "name": "Africapolis green spaces - testing",
                   "members": [
                     {
