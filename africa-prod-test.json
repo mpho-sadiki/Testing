@@ -206,7 +206,7 @@
               ]
             },
             {
-              "type": "group",
+              "type": "wms-group",
               "name": "Urban",
               "members": [
                 {
