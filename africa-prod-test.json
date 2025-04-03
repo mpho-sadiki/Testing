@@ -206,7 +206,7 @@
               ]
             },
             {
-              "type": "wms-group",
+              "type": "group",
               "name": "Urban",
               "sortMembersBy": "name",
               "mergeGroupsByName": true,
