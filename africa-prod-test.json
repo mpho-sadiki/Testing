@@ -208,11 +208,9 @@
             {
               "type": "group",
               "name": "Urban",
-              "sortMembersBy": "name",
-              "mergeGroupsByName": true,
               "members": [
                 {
-                  "type": "group",
+                  "type": "wms-subgroup",
                   "name": "Africapolis green spaces - testing",
                   "members": [
                     {
