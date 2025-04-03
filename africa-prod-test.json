@@ -206,11 +206,11 @@
               ]
             },
             {
-              "type": "group",
+              "type": "wms-group",
               "name": "Urban",
               "members": [
                 {
-                  "type": "wms-group",
+                  "type": "group",
                   "name": "Africapolis green spaces - testing",
                   "members": [
                     {
